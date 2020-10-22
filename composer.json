@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/discord",
+    "name": "team-crescendo/laravel-discord",
     "description": "Laravel notification driver for Discord.",
     "keywords": [
         "laravel",
